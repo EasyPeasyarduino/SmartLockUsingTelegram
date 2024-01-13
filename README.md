@@ -14,7 +14,7 @@ Create a smart doorbell system that integrates face recognition technology with 
 - **Security:** Differentiates between recognized faces (homeowner) and strangers.
 - **Visual Alerts:** Includes a buzzer for audible notifications and an LED indicator for visual alerts.
 
-## Components
+## Components annd Hardware setup
 
 - Arduino board.
 - Camera module for face capture.
