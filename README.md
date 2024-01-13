@@ -8,7 +8,7 @@ Create a smart doorbell system that integrates face recognition technology with 
 ## Key Features
 
 - **Face Recognition:** Utilizes OpenCV and Python for accurate face recognition.
-- **Hardware Control:** Arduino-based control for servo, LED, and LCD display.
+- **Hardware Control:** Arduino-based control for LED, and LCD display.
 - **Telegram Integration:** Sends instant notifications to the homeowner through Telegram by using Telegram Bot.
 - **User Feedback:** LCD display offers real-time feedback on the system's status.
 - **Security:** Differentiates between recognized faces (homeowner) and strangers.
@@ -21,7 +21,6 @@ Create a smart doorbell system that integrates face recognition technology with 
 - LCD display for visual feedback with 12C module.
 - LED indicator for visual alerts.
 - Telegram bot for instant messaging.
-- servo motor
 
 ## Usage
 
