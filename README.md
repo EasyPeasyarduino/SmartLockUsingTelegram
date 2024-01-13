@@ -21,6 +21,8 @@ Create a smart doorbell system that integrates face recognition technology with 
 - LCD display for visual feedback with 12C module.
 - LED indicator for visual alerts.
 - Telegram bot for instant messaging.
+  ![smartlock](https://github.com/EasyPeasyarduino/SmartLockUsingTelegram/assets/140818076/73ba95ef-c74c-4451-9640-f75df68c37b5)
+
 
 ## Usage
 
