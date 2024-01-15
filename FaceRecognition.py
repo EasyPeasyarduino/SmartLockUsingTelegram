@@ -2,7 +2,6 @@ import face_recognition #need to install cmake and dlib libraries too, and you m
 import cv2
 import numpy as np
 import os
-import time
 
 #set the paths for folders
 folder = "Stranger" #New File for Strangers
