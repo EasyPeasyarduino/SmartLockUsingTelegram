@@ -11,7 +11,7 @@ API_TOKEN = 'Paste your API from TelegramBot'
 #get your telegram Id first from TelegramID.py
 OWNER_CHAT_ID='Paste Your ID'
 # Connect to Arduino via Serial
-arduino = serial.Serial('COM9', 9600)  # Update 'COM9' with your Arduino port
+arduino = serial.Serial('COM9', 9600)  # Update 'COM9' with your Arduino port (optional)
 #set the paths for folders
 folder = "Stranger" #New File for Strangers
 path = 'OwnerFace' #path to the owner faces
