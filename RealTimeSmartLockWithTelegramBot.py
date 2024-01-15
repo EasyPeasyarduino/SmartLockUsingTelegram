@@ -8,6 +8,7 @@ from telegram import InputFile
 
 # setting telegram
 API_TOKEN = 'Paste your API from TelegramBot'
+#get your telegram Id first 
 OWNER_CHAT_ID='Paste Your ID'
 # Connect to Arduino via Serial
 arduino = serial.Serial('COM9', 9600)  # Update 'COM9' with your Arduino port
