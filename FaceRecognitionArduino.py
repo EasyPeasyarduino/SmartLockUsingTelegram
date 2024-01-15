@@ -58,7 +58,7 @@ while True:
             cv2.rectangle(imgSmall, (left, bottom - 35), (right, bottom), (0, 0, 255), cv2.FILLED)
             font = cv2.FONT_HERSHEY_DUPLEX
             cv2.putText(imgSmall, name, (left + 6, bottom - 6), font, 1.0, (255, 255, 255), 1)
-            cv2.imwrite(f'{folder}/Image_{time.time()}.jpg', imgSmall)
+            cv2.imwrite(f'{folder}/stranger.jpg', imgSmall)
             arduino.write(b'0')
         else:
             cv2.rectangle(imgSmall, (left, top), (right, bottom), (0, 255, 0), 2)
